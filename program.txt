@@ -1,0 +1,8 @@
+
+int a = 1;
+
+int function(){
+    print("Ace");
+}
+
+int arr[] = {0,1,2};
