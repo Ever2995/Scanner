@@ -1,1 +1,15 @@
 # Scanner
+
+1. Open the project in any IDE
+2. Make sure C compiler and Lexer are installed on the system
+3. Compile the lexer (.l) file using lexer
+4. Compile the generated c file to an executable 
+5. Run the .exe file
+
+    The program scans the input file (named program) and prints the Token Set:
+i. The Token Class
+ii. The Token Value
+iii. The Line No.
+
+    You can edit the program file to add and test your own code.
+
